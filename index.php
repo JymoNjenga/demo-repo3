@@ -6,3 +6,4 @@ class Animal{
 }
 
 $dog = new Animal();
+$dog->makeSound();
